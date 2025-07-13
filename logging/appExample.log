@@ -1,0 +1,5 @@
+2025-07-13 13:10:55 - ArithematicApp - DEBUG - Adding 5+51.6 = 56.6
+2025-07-13 13:10:55 - ArithematicApp - DEBUG - substracting 74.56-89.36 = -14.799999999999997
+2025-07-13 13:10:55 - ArithematicApp - DEBUG - Multiplying 23.58*45.89 = 1082.0862
+2025-07-13 13:10:55 - ArithematicApp - ERROR - Division by zero error
+2025-07-13 13:10:55 - ArithematicApp - DEBUG - Dividing 45.29/89.71 = 0.504848957752759
